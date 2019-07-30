@@ -5,7 +5,7 @@ Python3 Codes for A-Star and Weighted A-Star Algorithm
 # A* star algorithm
 * put w = 1 in line 14 of the code for simple A* algorithm. 
 
-*The heuristic in this algorithm is consistent and admissible, providing the optimum solution.
+* The heuristic in this algorithm is consistent and admissible, providing the optimum solution.
 
 # Weighted-A* algorithm
 * put w = 1.2 (or any value greater than 1) in line 14 for Weighted-A* algorithm.
