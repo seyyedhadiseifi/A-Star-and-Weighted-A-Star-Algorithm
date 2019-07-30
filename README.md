@@ -15,3 +15,7 @@ Python3 Codes for A-Star and Weighted A-Star Algorithm
 * Noticeably Faster than RegularA*
 
 # Both Algorithms are implemented for two games, (1) find a path in maze, (2) 8-puzzle.
+
+* 8-puzzle: check lines 167-180 for 8-puzzle board setting
+
+* Maze: check lines 153-155 for maze board setting
